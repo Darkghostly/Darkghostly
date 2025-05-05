@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on My-portifolio<br>👯 I’m looking to collaborate on NinjaDevs-API<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact: I'm like to play violin
+🔭 I’m currently working on My-portifolio<br>👯 I’m looking to collaborate on NinjaDevs-API<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact: I like to play violin
 
 
 ## 🌐 Socials:
