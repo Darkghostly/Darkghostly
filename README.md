@@ -1,6 +1,6 @@
 ## Hi there, I'm Gustavo Bueno👋
 # 💫 About Me:
-🔭 I’m currently working on API-FATEC<br>👯 I am a collaborator at Galáticos<br>🌱 I’m currently learning Cybersecurity and Data Security<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact: I like to play violin
+🔭 I’m currently working on 2º Semestre API-FATEC<br>👯 I am a collaborator at Galáticos<br>🌱 I’m currently learning Cybersecurity and Data Security<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact: I like to play violin
 
 
 ## 🌐 Socials:
