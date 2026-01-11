@@ -13,11 +13,11 @@
 
 ## 🧠 Sobre Mim
 
-> "Deixei o interior para me aproximar da minha paixão na cidade grande."
+> "Cybersecurity não é sobre ferramentas, é sobre mentalidade."
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu do amor por games, continuei no desenvolvimento de software com foco em backend.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu da curiosidade de entender como um radar funcionava, continuei no desenvolvimento de software com foco em segurança da informação.
 
-🎯 Hoje, meu foco é **aprender na prática**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
+🎯 Hoje, meu foco é **testar para aprender**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
 
 ---
 
@@ -63,12 +63,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ---
 
 <p align="center">
- <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="180px" />
-  <br><br>
-  <i>“Sempre atento. Sempre pronto. Sempre aprendendo.”</i>
+  <i>“Sempre testando, errando e aprendendo.”</i>
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darkghostly&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
