@@ -57,7 +57,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 | 🌐 Rede | Link |
 |--------|------|
 | 💼 LinkedIn | [gustavobueno](https://www.linkedin.com/in/gustavo-bueno-da-silva-797292324/) |
-| 🌍 Portfólio | [portfolio]([https://gustavomgreco.vercel.app](https://new-bueno-portifolio.vercel.app/)) |
+| 🌍 Portfólio | [portfolio]((https://new-bueno-portifolio.vercel.app/)) |
 | 🧠 HacktheBox | *em breve* |
 
 ---
