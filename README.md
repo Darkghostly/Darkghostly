@@ -31,7 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ## 🚩 Projeto em Destaque
 
-### 📌 [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
+### 📌 [OSINT Tools](https://github.com/Darkghostly/OSINT-Tools)
 > Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
 
 ---
