@@ -38,7 +38,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ## 🏅 Conquistas Recentes
 
-- 💻 Desenvolvi soluções web com **Python** e **Flask**;
+- 💻 Desenvolvi soluções web com **Python**;
 - 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
 - 🧪 Desenvolvi meu **Site Portfólio**;
 - 👾 Iniciei estudos em **Analise OSINT**.
