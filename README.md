@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 🚩 Projeto em Destaque
 
 ### 📌 [OSINT Tools](https://github.com/Darkghostly/OSINT-Tools)
-> Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
+> Uma versão personalizada e aprimorada do OSINT Framework, com uma interface moderna e interativa, focada em cibersegurança e investigações digitais open source.
 
 ---
 
