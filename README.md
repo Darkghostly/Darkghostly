@@ -1,4 +1,6 @@
-<h1 align="center"> Gustavo Bueno </h1>
+```yml
+User: Darkghostly (Gustavo Bueno)
+```
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&color=00FF7F&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Cybersecurity;Testando+exploits!" />
@@ -14,18 +16,38 @@
 ## 🧠 Sobre Mim
 
 > "Cybersecurity não é sobre ferramentas, é sobre mentalidade."
+```yml
+Status: Procurando por vulnerabilidades e conhecimento
+Role: Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos
+      Minha jornada em tecnologia nasceu da curiosidade de entender como um radar funcionava,
+      continuei no desenvolvimento de software com foco em segurança da informação.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu da curiosidade de entender como um radar funcionava, continuei no desenvolvimento de software com foco em segurança da informação.
-
-🎯 Hoje, meu foco é **testar para aprender**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
+Focus: Hoje, meu foco é **testar para aprender**, colaborar em projetos,
+       contribuir para a comunidade e subir de nível constantemente.
+```
 
 ---
 
-## 🔧 Minhas Skills
+## 🛠️ Meu Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,linux,mysql,git,github,idea,vscode,bash" />
+### 🔴 Offensive & Analysis
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,py,bash,java,mysql," />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-555555?style=flat&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
 </div>
+
+### 🌐 Web & Infrastructure
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,idea" />
+</div>
+
+## 🏁 Cyber Rankings
+<p align="left">
+  <a href="https://app.hackthebox.com/users/3046933">
+    <img src="https://www.hackthebox.eu/badge/image/3046933" alt="Hack The Box">
+  </a>
+</p>
 
 ---
 
