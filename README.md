@@ -1,5 +1,6 @@
 ```yml
 User: Darkghostly (Gustavo Bueno)
+clearance: low-level access | escalating
 ```
 
 <p align="center">
@@ -15,29 +16,34 @@ User: Darkghostly (Gustavo Bueno)
 
 ## 🧠 Sobre Mim
 
-> "Cybersecurity não é sobre ferramentas, é sobre mentalidade."
-```yml
-Status: Procurando por vulnerabilidades e conhecimento
-Role: Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos
-      Minha jornada em tecnologia nasceu da curiosidade de entender como um radar funcionava,
-      continuei no desenvolvimento de software com foco em segurança da informação.
 
-Focus: Hoje, meu foco é **testar para aprender**, colaborar em projetos,
-       contribuir para a comunidade e subir de nível constantemente.
+```yml
+Status: Analisando sistemas | estudando padrões | quebrando paradigmas
+
+Role: Estudante de ADS na Fatec São José dos Campos
+     
+
+Mindset: Security is not about tools.
+         It’s about how you think under pressure.
+
+Mission: Aprender testando
+         Falhe rápido
+         Documente tudo
+         Aprimorar a mentalidade de ataque e defesa diariamente
 ```
 
 ---
 
-## 🛠️ Meu Arsenal
+## 🛠️ Toolset & Environment
 
-### 🔴 Offensive & Analysis
+### 🔴 Offensive | Analysis | Automation
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,py,bash,java,mysql," />
   <img src="https://img.shields.io/badge/-Kali%20Linux-555555?style=flat&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
 </div>
 
-### 🌐 Web & Infrastructure
+### 🌐 Web | Infra | Dev Environment
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,idea" />
 </div>
@@ -54,16 +60,16 @@ Focus: Hoje, meu foco é **testar para aprender**, colaborar em projetos,
 ## 🚩 Projeto em Destaque
 
 ### 📌 [OSINT Tools](https://github.com/Darkghostly/OSINT-Tools)
-> Uma versão personalizada e aprimorada do OSINT Framework, com uma interface moderna e interativa, focada em cibersegurança e investigações digitais open source.
+> OSINT framework customizado para reconhecimento, coleta e correlação de informações abertas, com foco em investigações digitais, automação e mentalidade ofensiva.
 
 ---
 
 ## 🏅 Conquistas Recentes
 
-- 💻 Desenvolvi soluções web com **Python**;
-- 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
-- 🧪 Desenvolvi meu **Site Portfólio**;
-- 👾 Iniciei estudos em **Analise OSINT**.
+- 💻 Desenvolvimento de soluções em Python com foco em automação
+- 🛠 Participação em desafios técnicos e hackathons
+- 🧪 Portfólio próprio focado em segurança e sistemas
+- 👾 Estudos ativos em OSINT, logs e análise de superfícies de ataque
 
 ---
 
@@ -85,7 +91,7 @@ Focus: Hoje, meu foco é **testar para aprender**, colaborar em projetos,
 ---
 
 <p align="center">
-  <i>“Sempre testando, errando e aprendendo.”</i>
+  <i>“Observe. Teste. Quebre. Aprenda. Repita.”</i>
 </p>
 
 <!-- ## 🏆 GitHub Trophies
