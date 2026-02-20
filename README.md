@@ -57,11 +57,13 @@ Mission: Aprender testando
 
 ---
 
-## 🚩 Projeto em Destaque
+## 🚩 Projetos em Destaque
 
 ### 📌 [OSINT Tools](https://github.com/Darkghostly/OSINT-Tools)
 > OSINT framework customizado para reconhecimento, coleta e correlação de informações abertas, com foco em investigações digitais, automação e mentalidade ofensiva.
-
+### 📌 [File Integrity Checker](https://github.com/Darkghostly/file-integrity-checker)
+> Projeto feito para analise de hash de logs.
+> 
 ---
 
 ## 🏅 Conquistas Recentes
