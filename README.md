@@ -38,14 +38,25 @@ Mission: Aprender testando
 
 ### 🔴 Offensive | Analysis | Automation
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,py,bash,java,mysql," />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-555555?style=flat&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Kali_Linux-555555?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OSINT-333333?style=for-the-badge&logo=target&logoColor=white" alt="OSINT" />
 </div>
 
-### 🌐 Web | Infra | Dev Environment
+### 🌐 Web | Languages | Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,idea" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br><br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ## 🏁 Cyber Rankings
@@ -62,7 +73,7 @@ Mission: Aprender testando
 ### 📌 [OSINT Tools](https://github.com/Darkghostly/OSINT-Tools)
 > OSINT framework customizado para reconhecimento, coleta e correlação de informações abertas, com foco em investigações digitais, automação e mentalidade ofensiva.
 ### 📌 [File Integrity Checker](https://github.com/Darkghostly/file-integrity-checker)
-> Projeto feito para analise de hash de logs.
+> Script em Bash para verificação contínua de integridade de arquivos utilizando algoritmos de hash.
 > 
 ---
 
@@ -76,9 +87,15 @@ Mission: Aprender testando
 ---
 
 ## 📊 Meus Status:
-![](https://github-readme-stats.vercel.app/api?username=darkghostly&theme=dark&hide&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darkghostly&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkghostly&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Darkghostly&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Darkghostly&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Darkghostly&theme=dark" />
+  
+
+<br><br> <img src="https://komarev.com/ghpvc/?username=DanielDPereira&color=050f2c" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -86,8 +103,8 @@ Mission: Aprender testando
 
 | 🌐 Rede | Link |
 |--------|------|
-| 💼 LinkedIn | [gustavobueno](https://www.linkedin.com/in/gustavo-bueno-da-silva-797292324/) |
-| 🌍 Portfólio | [portfolio](https://new-bueno-portifolio.vercel.app/) |
+| 💼 LinkedIn | [Gustavo Bueno](https://www.linkedin.com/in/gustavo-bueno-da-silva-797292324/) |
+| 🌍 Portfólio | [gubu3no](https://new-bueno-portifolio.vercel.app/) |
 
 ---
 
